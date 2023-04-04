@@ -1,3 +1,6 @@
 # Jornada Dev EBAC "TikTok Clone"
 
-Link do projeto online: https://tiktok---jornada-41c77.web.app/
+Links:
+<br />
+•<a href='https://tiktok---jornada-41c77.web.app/'>Projeto Online</a>
+•<a href='https://ebaconline.com.br/'>EBAC</a>
