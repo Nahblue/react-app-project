@@ -1,7 +1,7 @@
 <h1 align="center"> Jornada Dev EBAC "TikTok Clone" </h1>
 
 <p align="center">
-Projeto promovido pela EBAC durante uma jornada fullstack que durou 8 dias. <br/>
+Projeto promovido pela <a href='https://ebaconline.com.br/'>EBAC</a> durante uma jornada fullstack que durou 8 dias. <br/>
 </p>
 
 <p align="center">
@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Nahblue.  Jornada da <a href='https://ebaconline.com.br/'>EBAC</a>
+Feito com ♥ by Nahblue.  
