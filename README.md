@@ -1,4 +1,4 @@
-<h1 align="center"> Jornada Dev EBAC "TikTok Clone" </h1>
+<h1 align="center"> Jornada Dev Fullstack EBAC </h1>
 
 <p align="center">
 Projeto promovido pela <a href='https://ebaconline.com.br/'>EBAC</a> durante uma jornada fullstack que durou 8 dias. <br/>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O TikTok clone, como o nome já diz, é um clone da plataforma feito usando react e o banco de dados firebase.
+Esse projeto foi feito usando react e componentização e o banco de dados firebase.
 
 - [Visite o projeto online](https://tiktok---jornada-41c77.web.app/)
 
